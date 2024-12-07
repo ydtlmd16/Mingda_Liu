@@ -1,10 +1,10 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "卢本伟",
+    name: "刘明达",
     sex: "男",
     age: "19",
-    phone: "19872222222",
-    email: "happysnaker@foxmail.com this`s true",
+    phone: "13260361566",
+    email: "lmd20@mails.tsinghua.edu.cn",
     address: "现居浙江省义乌市",
     qq: "11",
     log: "Happysnaker",
